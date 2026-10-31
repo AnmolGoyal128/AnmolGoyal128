@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Pursuing IIT Madras BS in Data Science.<br>☕ Skilled in Java, Spring, Spring Boot, and REST APIs with hands-on backend development.<br>🤖 Learning Python, Data Science, Machine Learning, and AI/GenAI.<br>🌐 Exploring HTML, CSS, JavaScript, React/Next.js for full-stack development.<br>🛠️ Building projects with MySQL, Git/GitHub, Spring Boot, and AI/RAG technologies.
+🎓 Pursuing IIT Madras BS in Data Science.<br>🎓 Pursuing BTech CSE(AI-ML).<br>☕ Skilled in Java, Spring, Spring Boot, and REST APIs with hands-on backend development.<br>🤖 Learning Python, Data Science, Machine Learning, and AI/GenAI.<br>🌐 Exploring HTML, CSS, JavaScript, React/Next.js for full-stack development.<br>🛠️ Building projects with MySQL, Git/GitHub, Spring Boot, and AI/RAG technologies.
 
 
 ## 🌐 Socials:
